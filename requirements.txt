@@ -1,0 +1,13 @@
+requests
+flask
+pyecharts
+sqlalchemy
+pymysql
+echarts-china-cities-pypkg
+echarts-china-counties-pypkg
+echarts-china-misc-pypkg
+echarts-china-provinces-pypkg
+echarts-countries-pypkg
+openpyxl
+pandas
+eplot
